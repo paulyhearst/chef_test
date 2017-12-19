@@ -1,2 +1,2 @@
 # chef_test
-Testing Chef Scripts yo.
+This is an empty repo just for testing out ideas for creating a public market place in Hearst.
